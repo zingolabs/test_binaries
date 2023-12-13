@@ -1,1 +1,1 @@
-This repo exists to stash test binaries in.
+These binaries are zcash infrastructure used in test scenarios by Zingo!
